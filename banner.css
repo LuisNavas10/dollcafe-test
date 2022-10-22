@@ -1,0 +1,15 @@
+.banner {
+    background: url("./Img/background_test.jpg") no-repeat center / cover;
+    width: 100%;
+    padding: 300px;
+}
+
+.banner__titulo{
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+}
+
+.menu__ppal{
+    background-color: rgba(47, 34, 34, 0.3);
+}
